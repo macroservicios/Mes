@@ -1,2 +1,1 @@
-# Mes
-Arreglo de datos sistema Mes
+# Codigo en Python para transformación de datos del sistema Mes
